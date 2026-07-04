@@ -1,0 +1,12 @@
+{
+  "name": "brice-tools",
+  "owner": { "name": "Brice" },
+  "description": "Personal Claude skills",
+  "plugins": [
+    {
+      "name": "meta-tools",
+      "source": "./plugins/meta-tools",
+      "description": "Meta Ads diagnostic and audit skills"
+    }
+  ]
+}
